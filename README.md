@@ -1,2 +1,2 @@
 # Interaccion-humano-computadora-2021-2
-Interacción humano computadora
+Repositorio de la clase 2021-2
